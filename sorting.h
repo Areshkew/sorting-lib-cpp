@@ -136,13 +136,3 @@ public:
         return instance;
     }
 };
-
-
-int main() {
-    std::vector<int> array({29, 72, 98, 13, 87, 66, 52, 51, 36});
-
-    sorting<int>::get().selection_sort(array);
-    sorting<int>::get().print_array(array);
-
-    return 0;
-}
