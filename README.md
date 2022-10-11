@@ -1,13 +1,16 @@
-<h1 align="center">Javascript Projects Repository<project-name></h1>
+<h1 align="center">C++ Sorting Algorithms Lib<project-name></h1>
 
-<p align="center">This repository is for upload every javascript mini-projects I do.<project-description></p>
 
 ## 👷‍♂️ Built With
 
-- JavaScript
-- HTML
-- CSS
-- [Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
+- C++
+
+## 📖 Algorithms Added
+
+- Insertion Sort | O(n²)
+- Bubble Sort | O(n²)
+- Merge Sort | O( nlog(n) )
+- Selection Sort | O(n²)
 
 ## 🧑‍💻 Author
 
